@@ -1,1 +1,2 @@
 sudo apt install python-pytest
+pip3 install pytest o pip install pytest
